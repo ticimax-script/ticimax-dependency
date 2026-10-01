@@ -1,4 +1,4 @@
-(function() {
+/*(function() {
   if (document.getElementById('full-white-overlay')) return;
 
   // ticimax
@@ -26,4 +26,4 @@
 
   overlay.appendChild(contentContainer);
   document.body.appendChild(overlay);
-})();
+})();*/
