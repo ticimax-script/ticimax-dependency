@@ -1,4 +1,4 @@
-/*(function() {
+ /*(function() {
   if (document.getElementById('full-white-overlay')) return;
 
   // ticimax
